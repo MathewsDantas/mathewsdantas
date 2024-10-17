@@ -3,7 +3,6 @@ Hi 👋 My name is Mathews
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [mathews2017@outlook.com.br](mailto:mathews2017@outlook.com.br)
-* 🧠  I'm learning ReactJS and TypeScript
 
 ### Skills
 
